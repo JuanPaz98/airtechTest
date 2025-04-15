@@ -12,4 +12,4 @@ This project contains solutions to a short JavaScript coding test, covering obje
 - Run the script using Node.js:
 
 ```bash
-node index.js
+node AirtechTest.js
